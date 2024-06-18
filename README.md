@@ -1,2 +1,6 @@
 # creepto
-creepto is a personalizated data engieering project, which entails data extraction from the coincap API, then using python to transform the data, Then the data gets loaded into the postgre database. The end of this projects also involves visual analytics through microsoft's Power BI
+Creepto is a personalized data engineering project
+which entails data extraction from the Coincap API
+then using Python to transform the data
+Then the data gets loaded into the Postgre database. 
+The end of this project also involves visual analytics through Microsoft's Power BI
